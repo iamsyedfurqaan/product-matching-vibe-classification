@@ -1,4 +1,3 @@
-
 ---
 
 # Flickd AI Hackathon Submission
@@ -168,13 +167,11 @@ submission/
 ## Contact
 
 For any questions, please contact:  
-**Your Name**  
-**your.email@example.com**
+**Syed Furqaan Ahmed**  
+**iamsyedfurqaan@gmail.com**
 
 ---
 
 **Thank you for reviewing my submission!**
 
 ---
-
-Just copy, paste, and personalize as needed!
