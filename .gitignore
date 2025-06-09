@@ -1,0 +1,6 @@
+venv/
+*.npy
+*.csv
+catalog_images/
+frames/
+.DS_Store
