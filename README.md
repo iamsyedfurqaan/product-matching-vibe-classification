@@ -124,8 +124,8 @@ submission/
 
 ## Demo Video
 
-- [Loom Demo Link](https://your-loom-link.com)  
-  *(Or see `demo.mp4` in this repo)*
+- [Demo Link]([https://your-loom-link.com](https://drive.google.com/file/d/1VHvEv2txkURPEwK-E_jbAtZZdhhoSnDv/view?usp=sharing))  
+  *(Or see `demo.txt` in this repo)*
 
 ---
 
