@@ -122,9 +122,7 @@ submission/
 
 ---
 
-## Demo Video
-
-- [Demo Link]([https://your-loom-link.com](https://drive.google.com/file/d/1VHvEv2txkURPEwK-E_jbAtZZdhhoSnDv/view?usp=sharing))  
+## Demo Video - https://your-loom-link.com](https://drive.google.com/file/d/1VHvEv2txkURPEwK-E_jbAtZZdhhoSnDv/view?usp=sharing  
   *(Or see `demo.txt` in this repo)*
 
 ---
